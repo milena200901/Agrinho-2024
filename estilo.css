@@ -1,0 +1,54 @@
+body{
+	background-image: url('2imagem.jpg');
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-attachment: fixed;
+	
+}
+
+div:hover{
+	background-color: #F61414;
+}
+ 
+ div:hover{
+
+ 	background-color: red;
+ }
+
+
+h1{
+
+	color: #F0F907;
+	text-align: center;
+	font-size:40px;
+	font-weight: bold;
+}
+h2{
+	color: #F0F907;
+	text-align: center;
+	font-size:40px;
+	font-weight: bold;
+}
+p{
+	color: #FCFBFB;
+	font-size: 20px;
+	text-align: center;
+	text-align: left;
+	text-align: justify;
+}
+
+ul{
+	color: #FEFCFC;
+	font-size: 20px;
+
+}
+.destaque{
+	color: #7EFF00;
+	text-align: center;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+div:hover{
+	background-color: #F61414;
+}
